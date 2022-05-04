@@ -39,6 +39,3 @@ public abstract class BackgroundWorker : IHostedService, IDisposable
         _cancellationToken.Cancel();
     }
 }
-
-public abstract class BackgroundWorker<TWorker> : BackgroundWorker where TWorker : BackgroundWorker
-{ }
