@@ -1,4 +1,4 @@
-namespace Netcorext.Worker.Abstractions;
+namespace Netcorext.Worker;
 
 public interface IWorkerRunner<TWorker> : IDisposable where TWorker : BackgroundWorker
 {

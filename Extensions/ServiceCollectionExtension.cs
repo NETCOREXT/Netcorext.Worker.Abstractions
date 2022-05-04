@@ -1,4 +1,4 @@
-using Netcorext.Worker.Abstractions;
+using Netcorext.Worker;
 
 namespace Microsoft.Extensions.DependencyInjection;
 

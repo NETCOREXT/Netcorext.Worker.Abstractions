@@ -1,6 +1,6 @@
 using Microsoft.Extensions.Hosting;
 
-namespace Netcorext.Worker.Abstractions;
+namespace Netcorext.Worker;
 
 public abstract class BackgroundWorker : IHostedService, IDisposable
 {
