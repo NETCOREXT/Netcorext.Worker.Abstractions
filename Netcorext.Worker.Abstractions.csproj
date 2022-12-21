@@ -15,10 +15,10 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <TargetsForTfmSpecificBuildOutput>$(TargetsForTfmSpecificBuildOutput);IncludeProjectReferences</TargetsForTfmSpecificBuildOutput>
-    <Authors>Aren Chen</Authors>
+    <Authors>NETCOREXT</Authors>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <PackageProjectUrl>https://github.com/arenchen/Netcorext.Worker.Abstractions</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/arenchen/Netcorext.Worker.Abstractions.git</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/NETCOREXT/Netcorext.Worker.Abstractions</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/NETCOREXT/Netcorext.Worker.Abstractions.git</RepositoryUrl>
     <Description>Normalized Background Worker</Description>
   </PropertyGroup>
 
